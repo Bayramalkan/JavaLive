@@ -1,0 +1,76 @@
+package kodlamaio.northwind.entities.concretes;
+
+
+
+
+public class Product {
+	private int id;
+	private int categoryId;
+	private String productName;
+	private double unitePrice;
+	private short unitsInStock;
+	private String quantityPerUnite;
+	
+	public Product() {}
+
+	public Product(int id, int categoryId, String productName, double unitePrice, short unitsInStock,
+			String quantityPerUnite) {
+		super();
+		this.id = id;
+		this.categoryId = categoryId;
+		this.productName = productName;
+		this.unitePrice = unitePrice;
+		this.unitsInStock = unitsInStock;
+		this.quantityPerUnite = quantityPerUnite;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public int getCategoryId() {
+		return categoryId;
+	}
+
+	public void setCategoryId(int categoryId) {
+		this.categoryId = categoryId;
+	}
+
+	public String getProductName() {
+		return productName;
+	}
+
+	public void setProductName(String productName) {
+		this.productName = productName;
+	}
+
+	public double getUnitePrice() {
+		return unitePrice;
+	}
+
+	public void setUnitePrice(double unitePrice) {
+		this.unitePrice = unitePrice;
+	}
+
+	public short getUnitsInStock() {
+		return unitsInStock;
+	}
+
+	public void setUnitsInStock(short unitsInStock) {
+		this.unitsInStock = unitsInStock;
+	}
+
+	public String getQuantityPerUnite() {
+		return quantityPerUnite;
+	}
+
+	public void setQuantityPerUnite(String quantityPerUnite) {
+		this.quantityPerUnite = quantityPerUnite;
+	}
+	
+	
+}
