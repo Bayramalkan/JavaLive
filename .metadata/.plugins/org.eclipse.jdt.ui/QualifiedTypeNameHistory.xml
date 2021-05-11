@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="oopIntro.Product"/>
-    <fullyQualifiedTypeName name="oopIntro.ProductManager"/>
-    <fullyQualifiedTypeName name="inheritance.Customer"/>
     <fullyQualifiedTypeName name="javax.swing.text.PlainView"/>
     <fullyQualifiedTypeName name="inheritance.IndividualCustomer"/>
     <fullyQualifiedTypeName name="inheritance.CorporateCustomer"/>
@@ -35,11 +32,6 @@
     <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.concretes.HibernateProductDao"/>
     <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.concretes.AbcProductDao"/>
     <fullyQualifiedTypeName name="lombok.Data"/>
-    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
-    <fullyQualifiedTypeName name="javax.persistence.Table"/>
-    <fullyQualifiedTypeName name="javax.persistence.Column"/>
-    <fullyQualifiedTypeName name="javax.persistence.Id"/>
-    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
     <fullyQualifiedTypeName name="kodlamaio.northwind.dataAccess.abstracts.ProductDao"/>
     <fullyQualifiedTypeName name="kodlamaio.northwind.entities.concretes.Product"/>
@@ -49,7 +41,6 @@
     <fullyQualifiedTypeName name="kodlamaio.hrms.dataAccess.abstracts.JobDao"/>
     <fullyQualifiedTypeName name="kodlamaio.hrms.api.controllers.UsersController"/>
     <fullyQualifiedTypeName name="kodlamaio.hrms.business.abstracts.UserService"/>
-    <fullyQualifiedTypeName name="kodlamaio.hrms.entities.concretes.User"/>
     <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.AutoConfigureOrder"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
@@ -60,4 +51,13 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="kodlamaio.hrms.entities.concretes.User"/>
+    <fullyQualifiedTypeName name="kodlamaio.hrms.entities.concretes.SystemPersonnel"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="kodlamaio.hrms.entities.concretes.JobSeeker"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
 </qualifiedTypeNameHistroy>
