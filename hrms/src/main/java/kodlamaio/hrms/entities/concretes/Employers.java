@@ -1,5 +1,6 @@
 package kodlamaio.hrms.entities.concretes;
 
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -9,7 +10,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="employers")
 public class Employers extends User{
-	
+	dasdasdas
 	
 	@Id
 	@GeneratedValue
